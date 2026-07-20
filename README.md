@@ -32,3 +32,64 @@ Apresento um resumo estruturado e consolidado sobre a otimização metabólica, 
 Glossário: Para complementar as informações já consolidadas, apresento um glossário com os principais conceitos extraídos das fontes para auxiliar na compreensão da saúde metabólica e nutricional...
 
 Os prompts reutilizáveis que possam apoiar futuras revisões sobre o tema já foram anotados no readme acima.
+
+Com base nos documentos fornecidos, apresento um resumo estruturado e consolidado sobre a otimização metabólica, o controle do colesterol e a regulação do índice glicêmico, com foco especial em adultos a partir dos 40 anos.
+
+### 1. Fundamentos da Saúde Metabólica e Dislipidemia
+*   **Transição Fisiológica aos 40 Anos:** Nesta fase, ocorre uma desaceleração natural do metabolismo basal e mudanças na regulação de glicose e lípides.
+*   **Resistência à Insulina:** Caracteriza-se pela perda de sensibilidade das células ao hormônio insulina, dificultando a entrada de glicose nas células. Isso gera picos glicêmicos, sobrecarrega o pâncreas e pode evoluir para pré-diabetes e diabetes tipo 2.
+*   **Colesterol (Lípides):** O excesso de gordura e açúcar estimula a síntese de colesterol LDL ("ruim"), que forma placas nas artérias. O colesterol HDL ("bom") atua removendo o excesso de colesterol da circulação.
+*   **Interconexão:** A resistência à insulina está diretamente ligada ao aumento do LDL e à redução do HDL.
+
+### 2. Estratégias Nutricionais e Padrões Alimentares
+*   **Dietas Recomendadas:** A **Dieta Mediterrânea** e a **Dieta DASH** são amplamente endossadas para gerenciar glicose e riscos cardiovasculares por priorizarem alimentos vegetais, peixes e gorduras saudáveis.
+*   **Método do Prato:** Uma técnica visual simples para controle de porções:
+    *   **50% (Metade):** Vegetais não amiláceos (espinafre, brócolis, tomate, cenoura).
+    *   **25% (Um quarto):** Proteínas magras (peixe, aves sem pele, tofu, feijões).
+    *   **25% (Um quarto):** Carboidratos complexos/grãos integrais (arroz integral, quinoa, aveia).
+*   **Substituição Positiva:** Em vez de focar apenas na restrição, a estratégia é adicionar alimentos protetores (fibras e vegetais) para "expulsar" naturalmente os alimentos processados da dieta.
+
+### 3. Guia de Seleção Qualitativa de Alimentos
+*   **Alimentos a Enfatizar (Inclusão):**
+    *   **Grãos Integrais:** Aveia, cevada, quinoa e arroz integral. Contêm fibras que retardam a absorção de glicose. A **beta-glucana** da aveia ajuda especificamente a reduzir o LDL.
+    *   **Fibras Solúveis:** Encontradas em frutas (maçã, pera, frutas vermelhas) e leguminosas (feijão, lentilha). Formam um gel que reduz a absorção de gorduras e açúcares.
+    *   **Gorduras Saudáveis:** Azeite de oliva extra virgem, abacate, nozes e sementes (linhaça, chia).
+    *   **Peixes de Águas Frias:** Salmão, sardinha e atum (pelo menos 2x por semana) fornecem **ômega-3**, que melhora a sensibilidade à insulina e reduz triglicérides.
+*   **Alimentos a Limitar ou Evitar:**
+    *   **Açúcares Adicionados:** Refrigerantes, sucos industrializados e doces são os maiores indutores de resistência à insulina.
+    *   **Gorduras Saturadas e Trans:** Carnes gordas, manteiga, laticínios integrais e alimentos ultraprocessados elevam o LDL e agravam a inflamação celular.
+    *   **Carboidratos Refinados:** Pão branco, arroz branco e massas causam picos rápidos de açúcar no sangue.
+
+### 4. Metas Clínicas e Estilo de Vida
+*   **Biomarcadores Ideais:**
+    *   **Colesterol Total:** < 200 mg/dL.
+    *   **Colesterol LDL:** < 100 mg/dL.
+    *   **Glicose de Jejum:** < 100 mg/dL (Normal); 100-125 mg/dL indica pré-diabetes.
+*   **Controle de Peso:** Manter o IMC entre 18,5 e 24,9. Perder apenas **10% do peso corporal** pode melhorar drasticamente a sensibilidade à insulina e reduzir riscos de câncer e doenças cardíacas.
+*   **Atividade Física:** Recomenda-se pelo menos **150 minutos semanais** (ou sessões de 40 minutos, 3 a 4 vezes por semana) de intensidade moderada a vigorosa. O exercício permite que os músculos consumam glicose de forma independente da insulina.
+*   **Moderação:** Limitar o álcool (máximo de 1 dose/dia para mulheres e 2 para homens) e o sódio (< 2.300 mg/dia).
+
+
+Para complementar as informações já consolidadas, apresento um glossário com os principais conceitos extraídos das fontes para auxiliar na compreensão da saúde metabólica e nutricional:
+
+### Glossário de Conceitos Metabólicos e Nutricionais
+
+*   **Açúcares Adicionados:** Carboidratos simples e refinados que, em excesso, sobrecarregam as vias metabólicas, aceleram a produção de gordura no fígado e são os maiores indutores de resistência à insulina.
+*   **Beta-glucana:** Tipo de fibra solúvel encontrada abundantemente na **aveia**. No intestino, ela forma um gel que se liga aos ácidos biliares, forçando o fígado a retirar o colesterol LDL da circulação para produzir novos ácidos, reduzindo assim o colesterol "ruim".
+*   **Colesterol HDL (Lipoproteína de Alta Densidade):** Conhecido como colesterol **"bom"**, sua função principal é o transporte reverso: ele remove o excesso de colesterol das artérias e o leva de volta ao fígado para ser eliminado.
+*   **Colesterol LDL (Lipoproteína de Baixa Densidade):** Conhecido como colesterol **"ruim"**, ele pode se acumular nas paredes internas das artérias, formando placas que as estreitam e dificultam o fluxo sanguíneo.
+*   **Dietas DASH e Mediterrânea:** Padrões alimentares focados em vegetais, grãos integrais, peixes e gorduras saudáveis (como azeite). São amplamente recomendadas para o manejo conjunto da glicose e da saúde cardiovascular.
+*   **Fibras Solúveis:** Substâncias presentes em frutas (pectina) e leguminosas que retardam a digestão e a absorção de açúcares e gorduras, ajudando a estabilizar a glicemia pós-prandial.
+*   **Glicose (Açúcar no Sangue):** A principal fonte de energia para as células do corpo, proveniente da digestão de carboidratos.
+*   **Gorduras Insaturadas (Mono e Poli-insaturadas):** Consideradas **"gorduras boas"**, encontradas em peixes (ômega-3), azeite, abacate e nozes. Elas ajudam a reduzir o LDL, elevar o HDL e melhorar a sensibilidade à insulina.
+*   **Gorduras Saturadas:** Gorduras encontradas principalmente em produtos de origem animal (carnes gordas, manteiga). O consumo acima de 10% das calorias diárias eleva o LDL e agrava a resistência insulínica.
+*   **Gorduras Trans e Hidrogenadas:** Gorduras resultantes de processos industriais, totalmente contraindicadas por promoverem dislipidemia severa e aumentarem drasticamente o risco de diabetes e doenças coronarianas.
+*   **Índice de Massa Corporal (IMC):** Cálculo matemático (peso dividido pela altura ao quadrado) usado para identificar categorias de peso, como sobrepeso (IMC 25-30) ou obesidade (IMC > 30).
+*   **Índice Glicêmico (IG):** Sistema de classificação de carboidratos baseado na velocidade com que aumentam os níveis de açúcar no sangue após o consumo.
+*   **Insulina:** Hormônio produzido pelo pâncreas que funciona como uma "chave", permitindo que a glicose saia do sangue e entre nas células para gerar energia.
+*   **Método do Prato:** Técnica visual simples para planejar refeições equilibradas: **50% vegetais** não amiláceos, **25% proteínas** magras e **25% carboidratos** complexos.
+*   **Metas Clínicas (Biomarcadores):** Parâmetros ideais para saúde, como Colesterol Total < 200 mg/dL e Colesterol LDL < 100 mg/dL.
+*   **Pré-diabetes:** Condição onde os níveis de açúcar no sangue estão acima do normal (glicose de jejum entre 100-125 mg/dL), indicando alto risco de progressão para diabetes tipo 2.
+*   **Resistência à Insulina:** Disfunção onde as células não respondem eficientemente à insulina. Para compensar, o pâncreas produz mais hormônio, mas a glicose acaba se acumulando no sangue.
+*   **Substituição Positiva:** Estratégia comportamental que foca em **adicionar** alimentos saudáveis e protetores às refeições para que eles "expulsem" naturalmente os alimentos processados e ultraprocessados da dieta.
+*   **Ultraprocessados (UPF):** Alimentos industriais que passam por muitas etapas de processamento, ricos em sódio, gorduras trans e açúcares, e desprovidos da matriz original de fibras e nutrientes.
